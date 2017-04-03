@@ -1,0 +1,28 @@
+
+.jumbotron {
+  background-image: url("https://c1.staticflickr.com/3/2614/3687413597_d66f66290b_b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  font-family: 'Lato', sans-serif;
+}
+
+.center {
+  background-color: white;
+  color: black;
+}
+
+.nav {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2em;
+}
+
+.nav a{
+  color: slategrey;
+}
