@@ -18,6 +18,11 @@ body {
   color: black;
 }
 
+.center img{
+  width: 10em;
+  height: 15em;
+}
+
 .nav {
     font-family: 'Shadows Into Light', cursive;
     font-size: 2em;
